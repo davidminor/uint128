@@ -1,0 +1,2 @@
+This package implements some basic math (multiplication and addition)
+and bitwise operations for unsigned 128 bit integers in go.
